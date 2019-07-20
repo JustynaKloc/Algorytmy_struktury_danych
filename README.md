@@ -7,3 +7,5 @@ Na brzegu rzeki stoi trzech misjonarzy, trzech kanibali łódka mieszcząca co n
 Queue.py - zaimplementowana klasa kolejki za pomocą listy.
 
 Plik myGraph zawiera zaimplementowaną klasę grafu wraz z funkcjonalnością jego rysowania.
+
+Analiza_fukcja_solve.py to analiza eksperymentalna wydajności/złożoności obliczeniowej funkcji solve.
