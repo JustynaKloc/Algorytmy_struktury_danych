@@ -9,3 +9,7 @@ Queue.py - zaimplementowana klasa kolejki za pomocą listy.
 Plik myGraph zawiera zaimplementowaną klasę grafu wraz z funkcjonalnością jego rysowania.
 
 Analiza_fukcja_solve.py to analiza eksperymentalna wydajności/złożoności obliczeniowej funkcji solve.
+
+Stos.py - implementacja klasy.
+
+Wieża_Hanoi_rekurencja - rozwiązanie zagadnienia wieży z Hanoi, metoda rekurencyjna z wykorzystaniem 3 stosów. (https://pl.wikipedia.org/wiki/Wie%C5%BCe_Hanoi)
